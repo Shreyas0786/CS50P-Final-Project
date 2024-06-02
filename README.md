@@ -1,7 +1,6 @@
 # CS50P-Final-Project
 
 # Naruto Character and Villages Viewer
-### Video Demo:  <URL HERE>
 ### Description
 The Naruto Character and Village Viewer is a Python-based interactive application that allows users to explore detailed information about characters and villages from a fictional dataset. Users can choose a village to display a list of its characters along with their unique traits and nature types, or get detailed information about a randomly selected character.
 
